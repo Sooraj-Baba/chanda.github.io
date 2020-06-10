@@ -1,0 +1,17 @@
+body
+{
+	background-image:url("images/admin.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.cbox
+{
+    width: 600px;
+    height: 260px;
+    font-style: italic;
+    font-weight: 900;
+    font-family: candara;
+    font-size: 22px;
+    margin-top: 190px;
+    border: 1px solid green;
+}
